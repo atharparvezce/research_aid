@@ -4,6 +4,8 @@ How to read and write research papers.
 1. How to read research papers.
 
  [https://omscs6460.gatech.edu/research-guide/how-to-read-an-academic-paper/]
+ 
+ [https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html]
 
 3. How to write research papers.
 
